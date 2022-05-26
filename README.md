@@ -1,6 +1,11 @@
 # social_app
 
-A new Flutter project.
+An application that makes users communicate and chat with their friends.
+users can  scroll in their posts, interact with them (like and comment on it), and can create posts and share them with friends.
+user can edit his profile(name, phone, bio, profile image, cover image) .
+Authintacion through Firebase Auth.  
+send notifications through Firebase messaging.
+save image profile and cover image at firebase storage.
 
 ## Getting Started
 
